@@ -1,0 +1,18 @@
+{
+    "nevek": [
+        {
+            "nev": "Béla",
+            "szul": 2002
+        },
+
+        {
+            "nev": "Józsi",
+            "szul": 2001
+        },
+
+        {
+            "nev": "Csenge",
+            "szul": 2000
+        }
+    ]
+}
