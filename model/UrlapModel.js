@@ -5,9 +5,15 @@ class UrlapModel {
     this.#leiro = urlapLeiro;
   }
 
+  /*
+  getLeiro(){
+    return {...this.#leiro};
+  }
+  */
 
-  get leiro() {
+  getLeiro() {
     return { ...this.#leiro };
   }
+
 }
 export default UrlapModel;

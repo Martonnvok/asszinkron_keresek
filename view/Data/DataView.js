@@ -1,5 +1,5 @@
-class DataView{
-    constructor(lista, szuloElem){
+class DataView {
+    constructor(lista, szuloElem) {
         console.log(lista)
     }
 }

@@ -1,6 +1,7 @@
-class HibaView{
-    constructor(error, szuloElem){
-        szuloElem.html(error.message);
+class HibaView {
+    constructor(error, szuloElem) {
+        console.log("error")
+        szuloElem.html(error.message)
     }
 }
 export default HibaView;

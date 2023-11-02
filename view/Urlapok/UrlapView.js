@@ -1,5 +1,5 @@
 import TextUrlapElem from "./TextUrlapElem.js";
-import NumberUrlapElem from "../NumberUrlapElem.js";
+import NumberUrlapElem from "./NumberUrlapElem.js";
 
 class UrlapView {
   #leiro = {};
@@ -53,6 +53,7 @@ class UrlapView {
     let txt = "<input type='submit' id='submit' value='OK'>";
     this.formElem.append(txt);
   }
+
 
 }
 export default UrlapView;

@@ -1,18 +1,33 @@
 {
     "nevek": [
         {
-            "nev": "Béla",
+            "nev": "Marci",
             "szul": 2002
         },
 
         {
-            "nev": "Józsi",
-            "szul": 2001
+            "nev": "András",
+            "szul": 2002
         },
 
         {
-            "nev": "Csenge",
-            "szul": 2000
+            "nev": "Ricardo",
+            "szul": 1988
+        },
+
+        {
+            "nev": "Józsi",
+            "szul": 1996
+        },
+
+        {
+            "nev": "Patrik",
+            "szul": 2020
+        },
+
+        {
+            "nev": "Márk",
+            "szul": 1999
         }
     ]
 }
